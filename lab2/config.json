@@ -1,0 +1,8 @@
+{
+    "density": 1000,
+    "min_speed": 2,
+    "max_speed": 10,
+    "min_angle": 0,
+    "max_angle": 15,
+    "max_width": 3
+}
